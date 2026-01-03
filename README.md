@@ -6,7 +6,7 @@
 
 **Live Links:**
 - **GitHub Pages:** [https://lomashsrivastava.github.io/Vcard-Portfolio](https://lomashsrivastava.github.io/Vcard-Portfolio)
-- **Netlify:** [https://vcard-portfolio-gaurav.netlify.app](https://vcard-portfolio-gaurav.netlify.app) <!-- Update this link after deployment -->
+- **Netlify:** [https://vcardportfoliogaurav.netlify.app/](https://vcardportfoliogaurav.netlify.app/)
 
 ## About The Project
 
