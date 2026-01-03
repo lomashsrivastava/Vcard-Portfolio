@@ -1,44 +1,58 @@
-# vCard - Personal portfolio
+# Portfolio - Gaurav Srivastava
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![GitHub repo size](https://img.shields.io/github/repo-size/lomashsrivastava/Vcard-Portfolio)
+![GitHub stars](https://img.shields.io/github/stars/lomashsrivastava/Vcard-Portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/lomashsrivastava/Vcard-Portfolio?style=social)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+**Live Links:**
+- **GitHub Pages:** [https://lomashsrivastava.github.io/Vcard-Portfolio](https://lomashsrivastava.github.io/Vcard-Portfolio)
+- **Netlify:** [https://vcard-portfolio-gaurav.netlify.app](https://vcard-portfolio-gaurav.netlify.app) <!-- Update this link after deployment -->
 
-## Demo
+## About The Project
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+This is a personal portfolio website for **Gaurav Srivastava**, an MBA (HR) Graduate. It showcases his professional background, skills, projects, and educational qualifications. The portfolio is fully responsive and designed with a modern aesthetic.
 
-## Prerequisites
+### Key Features
+- **Responsive Design:** Optimized for Desktop, Tablet, and Mobile.
+- **Sidebar Integration:** Quick access to contact info and social links.
+- **Dynamic Content:** Tabs for About, Resume, Portfolio, Blog, and Contact.
+- **Testimonials Section:** Showcasing feedback from colleagues and mentors.
+- **Portfolio Filter:** Filter projects by category (HR Analytics, Recruitment, Strategy).
 
-Before you begin, ensure you have met the following requirements:
+## Tech Stack
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- **HTML5**: For semantic structure.
+- **CSS3**: For styling, including custom properties (variables) and responsive design (Flexbox/Grid).
+- **JavaScript**: For interactive elements like the sidebar toggle and navigation tabs.
+- **Ionicons**: For high-quality icons.
+- **Google Fonts**: Typrography (Poppins).
 
-## Installing vCard
+## Project Structure
 
-To install **vCard**, follow these steps:
+- `index.html`: Main entry point structure.
+- `assets/css/style.css`: Main stylesheet.
+- `assets/js`: JavaScript files for interactivity.
+- `assets/images`: Images and icons used in the site.
 
-Linux and macOS:
+## Setup and Installation
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lomashsrivastava/Vcard-Portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Vcard-Portfolio
+   ```
+3. Open `index.html` in your browser to view the site.
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+**Gaurav Srivastava**
+- Email: gsrivastava657@gmail.com
+- Phone: +91 7388071833
+- LinkedIn: [gauravsrivastavabanda](https://linkedin.com/in/gauravsrivastavabanda)
+- Location: Banda, Uttar Pradesh, India
 
 ## License
-
 MIT
