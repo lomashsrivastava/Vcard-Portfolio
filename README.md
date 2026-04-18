@@ -56,3 +56,5 @@ This is a personal portfolio website for **Gaurav Srivastava**, an MBA (HR) Grad
 
 ## License
 MIT
+
+Designed And Developed By Lomash Srivastava
